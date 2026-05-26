@@ -40,7 +40,7 @@ osTicket · ticketing workflows · escalation · system log review · Windows 10
 | Project | Stack | Year |
 |---|---|---|
 | [Network Traffic Analysis](./network-traffic-analysis) | Wireshark + Python | 2025 |
-| [Azure osTicket Help Desk Lab]([./azure-osticket-lab](https://github.com/x4mt/azure-osticket-lab)) | Azure + Linux | 2026 |
+| [Azure osTicket Help Desk Lab](https://github.com/x4mt/azure-osticket-lab) | Azure + Linux | 2026 |
 
 ---
 
